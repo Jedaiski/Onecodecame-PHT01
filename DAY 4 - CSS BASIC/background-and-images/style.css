@@ -1,0 +1,28 @@
+.color-example {
+    color: red;
+    background-color: rgb(0, 255, 255);
+}
+
+.background-example {
+    background-color: #ffaa00;
+    color: rgb(171, 0, 202);
+}
+
+.background-position-example {
+        background-image: url("https://en.anmosugoi.com/wp-content/uploads/2023/12/Yaoyorozu-momo.webp");
+        height: 500px;
+        width: 500px;
+        background-color: aqua;
+        color: aliceblue;
+        background-repeat: no-repeat;
+        background-position: center top;
+}
+
+.opacity-example{
+    background-color: red;  
+}
+
+.img-name {
+    height:200px;
+    width:200px;
+}
